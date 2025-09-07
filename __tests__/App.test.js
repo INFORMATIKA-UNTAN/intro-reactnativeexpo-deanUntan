@@ -1,4 +1,4 @@
-import React from 'react';
+// React import tidak dibutuhkan!
 import { render } from '@testing-library/react-native';
 import App from '../App';
 

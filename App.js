@@ -1,4 +1,4 @@
-import React from 'react';
+// React import tidak dibutuhkan!
 import { View, Text, StyleSheet } from 'react-native';
 
 export default function App() {
